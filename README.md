@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @b4rretux
-- 👀 I’m interested in Network, DTN, Machine Learning, Operational Systems and Research.
+- 👀 I’m interested in Network, DTN, Operational Systems and Research.
 - 🌱 I’m currently working on my Master Course.
 - Gender: Homo Sapiens
 - Sex: Male
